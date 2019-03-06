@@ -1,0 +1,13 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.dll.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myLotteryNumbersService\myLotteryNumbersService\obj\Debug\myLotteryNumbersService.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myLotteryNumbersService\myLotteryNumbersService\obj\Debug\myLotteryNumbersService.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myLotteryNumbersService\myLotteryNumbersService\obj\Debug\myLotteryNumbersService.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\obj\Debug\myLotteryNumbersService.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\obj\Debug\myLotteryNumbersService.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\obj\Debug\myLotteryNumbersService.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\obj\Debug\myLotteryNumbersService.pdb

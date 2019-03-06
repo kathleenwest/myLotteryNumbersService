@@ -6,13 +6,4 @@ This is a simple WCF Data Services (Windows Communication Foundation) HOST servi
 
 You can run this in Visual Studio using the WCF Test Client or consume it however you like (ex: create a console application, web, cloud, etc.) 
 
-Samples: 
-Web.config
-IServiceLottoNumbers.cs
-ServiceLottoNumbers.svc
-ServiceLottoNumbers.svc.cs
-Pictures: 
-WCFTestClientDefault.jpg
-WCFTestClientCustom.jpg
-Application: myLotteryNumbersService_APP.zip
-Visual Studio Solution: myLotteryNumbersService_VSS.zip 
+Notes: This was a very early demo project that I completed in only like an hour just to put a demo out. I recently completed a WCF course and will be publishing more/better WCF service projects soon. This demo project does not have a console application client, you need to use the WCF Test Client to consume it. 

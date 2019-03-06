@@ -1,0 +1,6 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\bin\myLotteryNumbersService.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\obj\Release\myLotteryNumbersService.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\obj\Release\myLotteryNumbersService.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myLotteryNumbersService\myLotteryNumbersService\obj\Release\myLotteryNumbersService.pdb
